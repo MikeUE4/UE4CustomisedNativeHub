@@ -12,3 +12,5 @@ Open Calender and Pick Date using Native UI
 
 
 ![nessa2](https://user-images.githubusercontent.com/37648290/144273955-c30a644d-b103-4918-99ba-1e3bde46c28d.png)
+
+get Contact List consiting of names and phone number
