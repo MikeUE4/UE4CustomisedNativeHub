@@ -348,26 +348,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "WebBrowserWidget",
-			"Enabled": true
-		},
-		{
-			"Name": "WebBrowserNativeProxy",
-			"Enabled": true
-		},
-		{
-			"Name": "JsonLibrary",
-			"Enabled": true
-		},
-		{
-			"Name": "HttpLibrary",
-			"Enabled": true
-		},
-		{
-			"Name": "WebUI",
-			"Enabled": true
-		},
-		{
 			"Name": "RearAndroidNative",
 			"Enabled": true
 		}
